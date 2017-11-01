@@ -47,7 +47,7 @@ Android 抽奖转盘基于View的实现，主要有以下几点特性：<br/>
 
 ###改变转盘个数
 ~~~
-   <com.hr.nipuream.luckpan.view.RotatePan
+   <com.harlan.lhc.luckpanlibrary.RotatePan
         android:id="@+id/rotatePan"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
