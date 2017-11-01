@@ -93,12 +93,13 @@ Android 抽奖转盘基于View的实现，主要有以下几点特性：<br/>
 [Android 抽奖转盘的实现](http://blog.csdn.net/YanghuiNipurean/article/details/52251107)
 
 ### 使用规则
+~~~
 allprojects {
     repositories {
         jcenter()
         maven { url 'https://jitpack.io' }
     }
 }
-
+~~~
 
 
