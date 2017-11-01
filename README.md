@@ -100,6 +100,8 @@ allprojects {
         maven { url 'https://jitpack.io' }
     }
 }
+
+compile 'com.github.androidHarlan:LuckPan:v1.0.0'
 ~~~
 
 
